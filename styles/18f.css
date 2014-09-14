@@ -378,5 +378,15 @@ a.btn {
   overflow: hidden;
 }
 
+.lead {
+  line-height: 1.5em;
+}
+
+.lead i {
+  font-size: 175%; 
+  vertical-align: middle; 
+  color: #18f;
+}
+
 /* IE */
 .hasPlaceholder {color: #777;}
