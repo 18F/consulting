@@ -1,4 +1,5 @@
-18F Consulting
-===
+# 18F Consulting
 
-This is the github-pages branch of 18F Consulting. The main source of information is the actual web page.
+[The 18F Consulting website »](http://18f.github.io/consulting/)
+
+Uses [this template »](http://github.com/blacktm/standard-jekyll-template)
