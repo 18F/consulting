@@ -1,4 +1,4 @@
+.sass-cache/
 _site/
-static/.sass-cache
-.sass-cache
-.DS_Store*
+_tmp/
+*.DS_Store
