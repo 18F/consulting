@@ -11,7 +11,7 @@
   <span class="post-date">{{ include.param.date | date: "%-d %b %Y" }} — </span>
   <span class="post-category">
   {% for category in include.param.categories %}
-    <span class="post-label"><a href="{{ site.posts_path }}{{ "/categories/" | prepend: site.baseurl }}#{{ category }}">{{ category }}</a></span>
+    <span class="post-label"><a href="{{ site.baseurl }}{{ site.posts_path }}/categories/#{{ category }}">{{ category }}</a></span>
   {% endfor %}
   </span>
 </div>
