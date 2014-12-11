@@ -11,10 +11,10 @@ Unlike other repositories of 18F, this repo does not invite contributions from t
 
 - [Introducing 18F Consulting [PDF]]({{ site.baseurl }}/assets/docs/18f_consulting_intro.pdf) — This is a short introduction to our services and the reason we exist.
 - [How to Run Your Own 3-Sprint Agile Workshop](https://18f.gsa.gov/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/) — This is a short (10-page) how-to guide on running a one-afternoon Agile Workshop as an exercise. We provide coaching for such exercises.
-- [Case Study: The 18F July 1st Workshop [PDF]](http://18f.github.io/consulting/docs/18f_agile_workshop_case_study_july_1st.pdf) — This is a short description of a 3-Sprint workshop we ran at 18F.
+- [Case Study: The 18F July 1st Workshop [PDF]]({{ site.baseurl }}/assets/docs/18f_agile_workshop_case_study_july_1st.pdf) — This is a short description of a 3-Sprint workshop we ran at 18F.
 - [How to Use More Open Source](https://18f.gsa.gov/2014/11/26/how-to-use-more-open-source/) — A whitepaper outlining how to use more open source in your next software acquisition, both in terms of reusing existing open source code and writing your own code in an open source way.
 - [The Encasement Strategy: On Legacy Systems and the Importance of APIs](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) — An essay on using APIs to deal with legacy systems.
-- [A Printable Open Source Wardley Duncan Map [PDF]](http://18f.github.io/consulting/docs/open_source_wardley_duncan_map_printable.pdf) — A diagram valuable for analyzing large systems to look for commoditization opportunities.
+- [A Printable Open Source Wardley Duncan Map [PDF]]({{ site.baseurl }}/assets/docs/open_source_wardley_duncan_map_printable.pdf) — A diagram valuable for analyzing large systems to look for commoditization opportunities.
 
 ## Contact Information
 
