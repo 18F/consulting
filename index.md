@@ -10,6 +10,7 @@ Unlike other repositories of 18F, this repo does not invite contributions from t
 ## Current Documents
 
 - [Introducing 18F Consulting [PDF]]({{ site.baseurl }}/assets/docs/18f_consulting_intro.pdf) — This is a short introduction to our services and the reason we exist.
+- [How to Run an Agile Project in Government]({{ site.baseurl }}/assets/docs/How_to_Run_an_Agile_Project_in_Government.pdf) — A presentation presented as a DigitalGov University(http://www.digitalgov.gov/digitalgov-university/) webinar on Dec. 11, 2014.
 - [How to Run Your Own 3-Sprint Agile Workshop](https://18f.gsa.gov/2014/10/21/how-to-run-your-own-3-sprint-agile-workshop/) — This is a short (10-page) how-to guide on running a one-afternoon Agile Workshop as an exercise. We provide coaching for such exercises.
 - [Case Study: The 18F July 1st Workshop [PDF]]({{ site.baseurl }}/assets/docs/18f_agile_workshop_case_study_july_1st.pdf) — This is a short description of a 3-Sprint workshop we ran at 18F.
 - [How to Use More Open Source](https://18f.gsa.gov/2014/11/26/how-to-use-more-open-source/) — A whitepaper outlining how to use more open source in your next software acquisition, both in terms of reusing existing open source code and writing your own code in an open source way.
