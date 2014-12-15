@@ -3,7 +3,7 @@ title: 18F Consulting
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to 18F Consulting!
 baseurl: "/consulting"
-url: "http://18f.github.io"
+url: "https://18f.github.io"
 
 # Header
 header:
