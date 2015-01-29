@@ -138,7 +138,7 @@ header.site-header {
   }
 }
 
-// Take out of `site-header` scope for overriding
+// Taken out of `site-header` scope to override
 #mobile-menu-icon {
   fill: #fff;
 }
@@ -191,12 +191,13 @@ header.site-header {
   table {
     display: block;
     width: 100%;
+    margin: 30px 0;
     overflow: auto;
     word-break: normal;
-    word-break: keep-all
+    word-break: keep-all;
     
     th {
-      font-weight: bold
+      font-weight: bold;
     }
     
     th,  td {
@@ -306,10 +307,6 @@ header.site-header {
 
 .page-content {
   margin-bottom: 30px;
-
-  h1:first-of-type {
-    margin-top: 0;
-  }
   
   li {
     margin-bottom: .5em;
