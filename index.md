@@ -17,6 +17,7 @@ Unlike other repositories of 18F, this repo does not invite contributions from t
 - [How to Use More Open Source](https://18f.gsa.gov/2014/11/26/how-to-use-more-open-source/) — A whitepaper outlining how to use more open source in your next software acquisition, both in terms of reusing existing open source code and writing your own code in an open source way.
 - [The Encasement Strategy: On Legacy Systems and the Importance of APIs](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) — An essay on using APIs to deal with legacy systems.
 - [A Printable Open Source Wardley Duncan Map [PDF]]({{ site.baseurl }}/assets/docs/open_source_wardley_duncan_map_printable.pdf) — A diagram valuable for analyzing large systems to look for commoditization opportunities.
+- [Sketching with Code: Protosketching](https://18f.gsa.gov/2015/01/06/protosketch/) — An article describing and motivating our rapid prototyping performed as part of our business development.
 
 ## Contact Information
 
