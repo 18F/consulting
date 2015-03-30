@@ -5,9 +5,7 @@ subtitle: A new line of business within 18F, a digital services agency and techn
 
 18F Consulting is focused on providing hands-on consulting services to Federal program managers and other leaders who need assistance in designing and managing software acquisitions that use modern development techniques (e.g., agile, lean, open source). We offer a variety of services under the authority of the [Economy Act](http://www.acquisition.gov/far/html/Subpart%2017_5.html) from knowledgable and experienced software engineers and acquisition specialists. Think of us as your in-house technical brains for your next software acquisition.
 
-Unlike other repositories of 18F, this repo does not invite contributions from the public. However, all materials found here may be freely redistributed under the Creative Commons license.
-
-## Current Documents
+## Documents
 
 - [Introducing 18F Consulting [PDF]]({{ site.baseurl }}/assets/docs/18f_consulting_intro.pdf) — This is a short introduction to our services and the reason we exist.
 - [How to Run an Agile Project in Government]({{ site.baseurl }}/assets/docs/How_to_Run_an_Agile_Project_in_Government.pdf) — A presentation presented as a [DigitalGov University](http://www.digitalgov.gov/digitalgov-university/) webinar on Dec. 11, 2014.
@@ -20,11 +18,15 @@ Unlike other repositories of 18F, this repo does not invite contributions from t
 - [Sketching with Code: Protosketching](https://18f.gsa.gov/2015/01/06/protosketch/) — An article describing and motivating our rapid prototyping performed as part of our business development.
 - [How to Protosketch](https://18f.gsa.gov/2015/03/13/how-to-protosketch/) — A bag of tricks for effective protosketching.
 
-## Contact Information
+## Client Projects
+
+[Navy Reserve]({{ site.baseurl }}/projects/navy-reserve)
+
+## Contact
 
 If you're a Federal Agency interested in our services, please email Chris Cairns ([christopher.cairns@gsa.gov](mailto:christopher.cairns@gsa.gov)) or Robert L. Read ([robert.read@gsa.gov](mailto:robert.read@gsa.gov)).
 
 ## Follow Us
 
-<img src="{{ site.baseurl }}/assets/img/twitter.svg" alt="twitter" width="30" style="margin:0 10px 0 0"> [Twitter @18F](https://twitter.com/18F)
-<img src="{{ site.baseurl }}/assets/img/github.svg" alt="github" width="30" style="margin:0 10px 0 0"> [GitHub / 18F](https://github.com/18F)
+<img src="{{ site.baseurl }}/assets/img/twitter.svg" alt="twitter" class="social-img"> [Twitter @18F](https://twitter.com/18F)
+<img src="{{ site.baseurl }}/assets/img/github.svg" alt="github" class="social-img"> [GitHub / 18F](https://github.com/18F)
