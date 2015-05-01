@@ -41,3 +41,6 @@ Acronym | Definition
 :------ | :---------
 IOC     | Initial Operational Capability ([wiki](http://en.wikipedia.org/wiki/Initial_operating_capability))
 FOC     | Full Operational Capability ([wiki](http://en.wikipedia.org/wiki/Full_operational_capability))
+ICD     | Interface Control Document
+ETL     | Extract Transform Load
+SCR     | System Change Request

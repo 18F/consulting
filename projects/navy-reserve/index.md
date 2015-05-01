@@ -20,6 +20,10 @@ The mobile prototype will be updated as stories are completed.
 The prototype can be used with certain events enabled.
 [Launch the prototype with hard holds »]({{ site.baseurl }}/projects/navy-reserve/r2s/?hardhold=true)
 
+# Architecture
+
+[Current R2S architecture »]({{ site.baseurl }}/projects/navy-reserve/assets/r2s_architecture.pdf)
+
 # Mock API Documentation
 
 The prototype uses a "mock" API to simulate system interfaces, which may still need to be built.
