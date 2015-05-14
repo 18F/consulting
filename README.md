@@ -1,6 +1,6 @@
-# 18F Consulting
+# 18F Consulting Pages
 
-[The 18F Consulting website »](http://18f.github.io/consulting/)
+[View the site »](https://pages.18f.gov/consulting/)
 
 Serve locally by running `bash serve.sh`.
 

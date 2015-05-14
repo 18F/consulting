@@ -14,8 +14,6 @@ header:
   #     link: /example-article
   #   - text: About
   #     link: /about
-  #   - text: Blog
-  #     link: /blog
 
 # Edit pages
 edit_page:
@@ -24,15 +22,7 @@ edit_page:
   github:
     author: 18F
     repo:   consulting
-    branch: gh-pages
-
-# Posts
-posts_path: /blog
-permalink: "/blog/:year/:month/:day/:title"
-
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num"
+    branch: 18f-pages
 
 # Build settings
 markdown: redcarpet
@@ -45,8 +35,3 @@ defaults:
       path: ""
     values:
       layout: template/page
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: template/post
