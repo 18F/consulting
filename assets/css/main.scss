@@ -2,7 +2,9 @@
 # Main CSS Styles: all styles are compiled to this file
 ---
 
-@import "template";
+@import "template/colors",
+        "template/syntax-highlighting",
+        "template";
 
 /* Custom Styles */
 

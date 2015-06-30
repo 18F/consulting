@@ -37,7 +37,7 @@ Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus vari
 
 ## This is Another Header
 
-Sample code might look like `bash serve.sh`. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus.
+Inline sample code might look like `bash serve.sh`. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -47,7 +47,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus.
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. `ALongLineOfSampleCodeWouldLookLikeThisAndShouldWrapAppropriately`.
 
 <pre class="terminal">$ ruby -e "puts 'hello world'"</pre>
 
