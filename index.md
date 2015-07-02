@@ -6,4 +6,4 @@ Welcome to pages! This is where the consulting team posts information on project
 
 ## Project Sites
 
-- [Navy Reserve Ready to Serve](/consulting/projects/navy-reserve/)
+- [Navy Reserve Ready to Serve]({{ site.baseurl }}/projects/navy-reserve/)

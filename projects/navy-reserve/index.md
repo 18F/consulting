@@ -12,6 +12,14 @@ This project is lead by the Navy Reserve CIO and is fulfilling strategic imperat
 
 [View list of common acronyms »]({{ site.baseurl }}/projects/navy-reserve/acronyms)
 
+# R2S API Documentation
+
+The R2S web application exposes a RESTful API with JSON endpoints used by the front-end to render user data in the browser. Many of these back-end system interfaces still have yet to be built. [View the API documentation »]({{ site.baseurl }}/projects/navy-reserve/api)
+
+# Architecture
+
+[Current R2S architecture »]({{ site.baseurl }}/projects/navy-reserve/assets/r2s_architecture.pdf)
+
 # Conceptual Prototype
 
 The mobile prototype will be updated as stories are completed.
@@ -19,15 +27,6 @@ The mobile prototype will be updated as stories are completed.
 
 The prototype can be used with certain events enabled.
 [Launch the prototype with hard holds »]({{ site.baseurl }}/projects/navy-reserve/r2s/?hardhold=true)
-
-# Architecture
-
-[Current R2S architecture »]({{ site.baseurl }}/projects/navy-reserve/assets/r2s_architecture.pdf)
-
-# Mock API Documentation
-
-The prototype uses a "mock" API to simulate system interfaces, which may still need to be built.
-[View the documentation »]({{ site.baseurl }}/projects/navy-reserve/api)
 
 # Progress
 
