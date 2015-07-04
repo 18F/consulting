@@ -18,6 +18,7 @@ AT      | Annual Training
 ADT     | Active Duty for Training
 ADSW    | Active Duty for Special Work
 CNR     | Chief of Navy Reserve
+CNRFC   | Commander, Navy Reserve Forces Command
 FTS     | Full Time Support
 SPAWAR  | Space and Naval Warfare Systems Command ([wiki](http://en.wikipedia.org/wiki/Space_and_Naval_Warfare_Systems_Command))
 
@@ -41,6 +42,7 @@ Acronym | Definition
 :------ | :---------
 IOC     | Initial Operational Capability ([wiki](http://en.wikipedia.org/wiki/Initial_operating_capability))
 FOC     | Full Operational Capability ([wiki](http://en.wikipedia.org/wiki/Full_operational_capability))
+C&A     | Certification and Accreditation ([wiki](https://en.wikipedia.org/wiki/Department_of_Defense_Information_Assurance_Certification_and_Accreditation_Process))
 ICD     | Interface Control Document
 ETL     | Extract Transform Load
 SCR     | System Change Request
