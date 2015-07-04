@@ -8,7 +8,7 @@ breadcrumbs:
 
 The goal of the Ready to Serve application is to enable SELRES to report for duty across the globe and return to home of record, receive broadcasts, access pay and personnel information, and send/receive official e-mail using only an approved mobile device.
 
-This project is lead by the Navy Reserve CIO and is fulfilling strategic imperatives set by the Chief of Navy Reserve in the [2015-2025 Navy Reserve Vision [PDF]](https://www.navyreserve.navy.mil/documents/NR_vision_2015.pdf). The R2S mobile application was also featured in the [February 2015 issue of The Navy Reservist](https://www.navyreserve.navy.mil/Publications/2015/TNR_February_2015.pdf) (p. 9).
+This project is lead by the Navy Reserve CIO and is fulfilling strategic imperatives set by the Chief of Navy Reserve in the [2015-2025 Navy Reserve Vision [PDF]](https://www.navyreserve.navy.mil/documents/NR_vision_2015.pdf). The R2S mobile application was also featured in the [February 2015 issue of The Navy Reservist [PDF]](https://www.navyreserve.navy.mil/Publications/2015/TNR_February_2015.pdf) (p. 9).
 
 [View list of common acronyms »]({{ site.baseurl }}/projects/navy-reserve/acronyms)
 
@@ -20,7 +20,9 @@ The code for this application is [hosted on GitHub](https://github.com/18F/r2s).
 
 # R2S API Documentation
 
-The R2S web application exposes a RESTful API with JSON endpoints used by the front-end to render user data in the browser. Many of these back-end system interfaces still have yet to be built. [View the API documentation »]({{ site.baseurl }}/projects/navy-reserve/api)
+The R2S web application exposes a RESTful API with JSON endpoints used by the front-end to render user data in the browser. Many of these back-end system interfaces still have yet to be built.
+
+[View the API documentation »]({{ site.baseurl }}/projects/navy-reserve/api)
 
 # Current Artifacts
 
