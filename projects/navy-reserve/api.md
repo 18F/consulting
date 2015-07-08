@@ -39,9 +39,10 @@ breadcrumbs:
     <tr>
       <td>Returns</td>
       <td>
-        <code>name</code>: First and last name
-        <br><code>rate_rank</code>: Rate and rank
-        <br><code>profile_img</code>: The profile picture of the sailor</td>
+        <code>name</code>: First and last name<br>
+        <code>rate_rank</code>: Rate and rank<br>
+        <code>profile_img</code>: The profile picture of the sailor
+      </td>
     </tr>
     <tr>
       <td>Example Response</td>
@@ -50,6 +51,66 @@ breadcrumbs:
   rate_rank: "IS2",
   profile_img: "img/sailor.png"
 }</pre></code></td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- Opportunities -->
+
+<table class="api">
+  <thead>
+    <tr>
+      <th colspan="2"><h2>Opportunities</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTTP Verb</td>
+      <td><b>GET</b></td>
+    </tr>
+    <tr>
+      <td>Resource URL</td>
+      <td><b>/Opportunities</b></td>
+    </tr>
+    <tr>
+      <td>Description</td>
+      <td>Retrieves orders opportunities.</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Response format</td>
+      <td>JSON</td>
+    </tr>
+    <tr>
+      <td>Returns</td>
+      <td>
+        An array with the following:<br><br>
+        <code>AdvertisementID</code>: The ID of the advertisement<br>
+        <code>RankRange</code>: Rank range of the advertisement<br>
+        <code>QualificationSummary</code>: The qualification summary<br>
+        <code>MissionName</code>: The mission name<br>
+        <code>ReportDate</code>: The report date<br>
+        <code>EndDate</code>: The end date<br>
+        <code>Location</code>: The location
+      </td>
+    </tr>
+    <tr>
+      <td>Example Response</td>
+      <td><pre><code>[
+  {
+    "AdvertisementID": "",
+    "RankRange": "",
+    "QualificationSummary": "",
+    "MissionName": "",
+    "ReportDate": "",
+    "EndDate": "",
+    "Location": ""
+  }
+]</pre></code></td>
     </tr>
   </tbody>
 </table>
