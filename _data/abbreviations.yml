@@ -1,0 +1,95 @@
+abbreviations:
+  - BPA:
+    longform: Blanket Purchase Agreement
+    description: |
+      A blanket purchase agreement is often used when the government expects to buy the same thing multiple times, with varying amounts per buy. See FAR §§ [8.405-3](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html), [13.303](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html). Under a BPA, no money is actually _obligated_ to go to a contractor. It’s just an agreement to buy if and when the need arises.
+      For example, let’s say the government wanted to buy coffee beans. At any given time, the government might need one pound of beans, or hundreds of pounds of beans, depending on demand. It also might want to have different flavors. Rather than try to guess all of the needs at once, the government could create a BPA with one or more contractors that would allow the government to buy coffee beans whenever needed, at negotiated prices prices and with clear terms and conditions of delivery.
+      Like coffee, BPAs come in different flavors. [_Schedule BPAs_](http://www.gsa.gov/portal/content/199353) are BPAs with contractors on the _GSA Federal Supply Schedule_. For large purchases, it is more likely than not that the BPA will be a schedule BPA. A _single-award BPA_ is an agreement with a single contractor to fill the government’s needs. A _multiple-award BPA_ is a collection of agreements with multiple contractors who can fill the government’s needs.
+
+  - CICA:
+    longform: Competition in Contracting Act
+
+  - CLIN:
+    longform: Contract Line Item Number
+    description: |
+      Government solicitations ask contractors to name their price for their services or products. Typically, a solicitation will require a contractor to identify the cost associated with specified tasks, milestones, or deliverables. These "line item" costs are called Contract Line Item Numbers.
+
+  - CO:
+    longform: Contracting Officer
+
+  - COR:
+    longform: Contracting Officer's Representative
+
+  - COTS:
+    longform: Commercially available off-the-shelf
+
+  - FAR:
+    longform: Federal Acquisition Regulations
+    description: |
+      The FAR is “primary regulation for use by all Federal Executive agencies in their acquisition of supplies and services with appropriated funds.” In other words, it’s kind of a big deal. It’s without question the most important document in federal procurement.
+
+  - FFP:
+    longform: Firm Fixed Price
+
+  - GSAM:
+    longform: General Services Administration Acquisition Manual
+
+  - GWAC:
+    longform: Governmentwide Acquisition Contracts
+
+  - IAE: 
+    longform: Integrated Award Environment
+
+  - IDIQ: 
+    longform: Indefinite Delivery/Indefinite Quantity
+
+  - MAS:
+    longform: Multiple Award Schedule
+
+  - NAICS:
+    longform: North American Industry Classification System
+
+  - OCI:
+    longform: Organizational Conflict of Interest
+
+  - PWS:
+    longform: Performance Work Statement
+    description: |
+      A Performance Work Statement is used in "performance-based contract" solicitations to describe, at a high level, the desired deliverables for a contract and a method of evaluating contractor performance. [FAR § 37.602](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html) The FAR defines a PWS as a "statement of work for performance-based acquisitions that describes the required results in clear, specific and objective terms with measurable outcomes." [FAR § 2.101](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%202_1.html)
+      Like a SOO, a PWS typically does not specify the specific methodology of performance. But unlike a SOO, a PWS should specify the applicable contractor performance standards that will be used in the procurement. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
+
+  - QASP:
+    longform: Quality Assurance Surveillance Plan
+
+  - RFI:
+    longform: Request for Information
+
+  - RFP:
+    longform: Request for Proposal
+
+  - RFQ:
+    longform: Request for Quotation
+
+  - SAM:
+    longform: System for Award Management
+
+  - SAT:
+    longform: Simplified Acquisition Threshold 
+
+  - SF:
+    longform: Standard Form
+
+  - SIN:
+    longform: Special Item Number
+    description: |
+      A SIN is a "group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function." FAR § [8.401](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html). It is used by GSA to help categories the services and products offered by contractors on GSA schedules. They are not the *same* as NAICS codes, but they serve similar functions.
+
+  - SOO:
+    longform: Statement of Objectives
+    description: |
+      A Statement of Objectives is included in a solicitation to describe, at a high level, the desired outcomes from a contract. A SOO typically should not specify the specific methodology of performance, but instead should specify the desired *outcomes*, and allow potential contractors to propose solutions to achieve those outcomes. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
+
+  - SOW:
+    longform: Statement of Work
+    description: |
+      A Statement of Work is included in a solicitation to describe, at a granular level, the specific requirements for a contract. A SOW, unlike a PWS or SOO, should specify the precise deliverables, methods to be used, and timelines for performance. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
