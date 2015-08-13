@@ -13,6 +13,8 @@ e-Manifest is a project by EPA to digitize hazardous waste management in the U.S
 
 [View list of common acronyms »]({{ site.baseurl }}/projects/epa/e-manifest/acronyms)
 
+[View the API documentation »]({{ site.baseurl }}/projects/epa/e-manifest/api)
+
 # Progress Log
 
 ## Sprint 0 – July 17, 2015
