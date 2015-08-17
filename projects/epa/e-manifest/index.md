@@ -9,11 +9,13 @@ breadcrumbs:
 e-Manifest is a project by EPA to digitize hazardous waste management in the U.S.
 [Learn more about the history of the program »](http://www.epa.gov/osw/hazard/transportation/manifest/e-man.htm)
 
-[View the Trello board »](https://trello.com/b/0geMlbgF)
+Our work is being organized on Trello. [View the board »](https://trello.com/b/0geMlbgF)
+
+[View the running application »](https://e-manifest.18f.gov)
+
+[View the source code »](https://github.com/18F/e-manifest)
 
 [View list of common acronyms »]({{ site.baseurl }}/projects/epa/e-manifest/acronyms)
-
-[View the API documentation »]({{ site.baseurl }}/projects/epa/e-manifest/api)
 
 # Progress Log
 
