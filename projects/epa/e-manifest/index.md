@@ -15,6 +15,8 @@ Our work is being organized on Trello. [View the board »](https://trello.com/b/
 
 [View the source code »](https://github.com/18F/e-manifest)
 
+[View the notes from our daily standup meeting »]({{ site.baseurl }}/projects/epa/e-manifest/standupnotes)
+
 [View list of common acronyms »]({{ site.baseurl }}/projects/epa/e-manifest/acronyms)
 
 # Progress Log
