@@ -8,3 +8,8 @@ Welcome to pages! This is where the consulting team posts information on project
 
 - [EPA e-Manifest]({{ site.baseurl }}/projects/epa/e-manifest/) 
 - [Navy Reserve Ready to Serve]({{ site.baseurl }}/projects/navy-reserve/)
+
+
+## Knowledge Sharing Links
+
+- Facilitation
