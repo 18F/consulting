@@ -1,7 +1,7 @@
 ---
 title: Acronyms
 subtitle: A list of common acronyms.
-permalink: /projects/epa/e-manifest/acronyms/
+permalink: /projects/epa/e-manifest/standupnotes/
 breadcrumbs:
   - text: Back
     link: /projects/epa/e-manifest/
