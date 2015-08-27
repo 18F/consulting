@@ -1,14 +1,10 @@
 ---
-title: Acronyms
-subtitle: A list of common acronyms.
+title: Daily Standup Notes
 permalink: /projects/epa/e-manifest/standupnotes/
 breadcrumbs:
   - text: Back
     link: /projects/epa/e-manifest/
 ---
-
-
-# Daily Standup Notes
 
 ## July 22, 2015
 *Zac*
